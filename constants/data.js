@@ -19,7 +19,7 @@ const userData = {
     },
     {
       title: "Portfolio",
-      link: "https://manuarora.in",
+      link: "https://aman40399.me",
       imgUrl: "/portfolio.png",
     },
     {
