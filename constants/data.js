@@ -84,7 +84,7 @@ const userData = {
       company: "SHARDA UNIVERSITY.",
       year: "2027",
       companyLink: "https://upes.co.in",
-      desc: "Major in Computer Science and Engineering IN sp with a CGPA of 7.0. Nobody asks this but it's okay.",
+      desc: "doing Majors in Computer Science and Engineering (AIML) with a CGPA of 8.0.",
     },
     {
       title: "High School",
