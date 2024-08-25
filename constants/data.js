@@ -1,7 +1,7 @@
 const userData = {
   githubUsername: "aman40399",
   name: "Aman Singh..",
-  designation: "AIML-ENGINNER | RESEARCHER | DEVELOPER",
+  designation: "AIML-ENGINEER | RESEARCHER | DEVELOPER",
   avatarUrl: "/avatar.png",
   email: "nevermind40399@gmail.com",
   phone: "+91 9773978753",
